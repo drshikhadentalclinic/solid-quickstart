@@ -8,11 +8,11 @@ export default function Home() {
       <h1>Dr. Shikha's Dental Clinic!</h1>
       <Counter />
       <p>
-        Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
-          start.solidjs.com
+        Whatsapp Now{" "}
+        <a href="https://wa.me/919560222949" target="_blank">
+          Click Here!
         </a>{" "}
-        to learn how to build SolidStart apps.
+        to Book your appointment.
       </p>
     </main>
   );
